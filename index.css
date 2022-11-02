@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.card {
+  font-size: 2vw;
+  text-align: center;
+  margin: 5rem;
+  padding: 5rem;
+  font-family: 'Arvo', serif;
+  font-family: 'Playfair Display', serif;
+  font-family: 'Poppins', sans-serif;
+  border: none;
+}
+
+.btn {
+  margin-left: 16vw;
+  margin-right: 16vw;
+  margin-top: 6vh;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Arvo:wght@700&family=Playfair+Display:wght@400;700&family=Poppins:wght@300;400;600&display=swap');
